@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-reading-speed", "title": "Reading Speed Trainer", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Measure your reading speed and check understanding, then train with paced reading.", "content": ["toefl_passages.json"], "n": 55};
